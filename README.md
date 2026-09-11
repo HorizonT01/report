@@ -248,7 +248,44 @@ establecido en el Anexo A del enunciado.
 
 ### 1.1.1. Descripción de la Startup
 
-<!-- Completar -->
+**Horizon** es una startup tecnológica orientada al desarrollo de soluciones digitales que permitan a las empresas mejorar la gestión de sus procesos ambientales y avanzar hacia modelos de operación más sostenibles.
+
+La startup surge a partir de la necesidad de muchas organizaciones de conocer con mayor precisión el impacto ambiental generado por sus actividades. Actualmente, empresas de sectores como agricultura, minería, industria textil y manufactura necesitan medir sus emisiones de gases de efecto invernadero, controlar el uso de recursos y elaborar reportes ambientales para cumplir con diferentes estándares nacionales e internacionales.
+
+Sin embargo, en muchas organizaciones esta información se encuentra distribuida en hojas de cálculo, documentos y distintos sistemas, lo que dificulta su análisis y aumenta el tiempo necesario para elaborar reportes ambientales.
+
+Frente a esta situación, Horizon propone el desarrollo de **EcoTrack**, una plataforma web B2B enfocada en centralizar y automatizar la medición y gestión de la huella de carbono de las organizaciones.
+
+EcoTrack permitirá registrar diferentes fuentes de emisiones, calcular la huella de carbono empresarial, visualizar indicadores ambientales mediante dashboards y establecer planes de reducción de emisiones. De esta manera, las organizaciones podrán disponer de información más organizada para tomar decisiones relacionadas con sostenibilidad y gestión ambiental.
+
+Además, la plataforma busca facilitar el trabajo relacionado con estándares como el **GHG Protocol**, **ISO 14064** y otras metodologías vinculadas con la medición de emisiones de gases de efecto invernadero.
+
+| Característica | Descripción |
+|---|---|
+| **Nombre de la Startup** | Horizon |
+| **Nombre del producto** | EcoTrack |
+| **Tipo de solución** | Plataforma web B2B de gestión ambiental |
+| **Sector** | Tecnología y sostenibilidad |
+| **Modelo de negocio** | Software as a Service (SaaS) |
+**Horizon** es una startup tecnológica orientada al desarrollo de soluciones digitales que permitan a las empresas mejorar la gestión de sus procesos ambientales y avanzar hacia modelos de operación más sostenibles.
+
+La startup surge a partir de la necesidad de muchas organizaciones de conocer con mayor precisión el impacto ambiental generado por sus actividades. Actualmente, empresas de sectores como agricultura, minería, industria textil y manufactura necesitan medir sus emisiones de gases de efecto invernadero, controlar el uso de recursos y elaborar reportes ambientales para cumplir con diferentes estándares nacionales e internacionales.
+
+Sin embargo, en muchas organizaciones esta información se encuentra distribuida en hojas de cálculo, documentos y distintos sistemas, lo que dificulta su análisis y aumenta el tiempo necesario para elaborar reportes ambientales.
+
+Frente a esta situación, Horizon propone el desarrollo de **EcoTrack**, una plataforma web B2B enfocada en centralizar y automatizar la medición y gestión de la huella de carbono de las organizaciones.
+
+EcoTrack permitirá registrar diferentes fuentes de emisiones, calcular la huella de carbono empresarial, visualizar indicadores ambientales mediante dashboards y establecer planes de reducción de emisiones. De esta manera, las organizaciones podrán disponer de información más organizada para tomar decisiones relacionadas con sostenibilidad y gestión ambiental.
+
+Además, la plataforma busca facilitar el trabajo relacionado con estándares como el **GHG Protocol**, **ISO 14064** y otras metodologías vinculadas con la medición de emisiones de gases de efecto invernadero.
+
+| Característica | Descripción |
+|---|---|
+| **Nombre de la Startup** | Horizon |
+| **Nombre del producto** | EcoTrack |
+| **Tipo de solución** | Plataforma web B2B de gestión ambiental |
+| **Sector** | Tecnología y sostenibilidad |
+| **Modelo de negocio** | Software as a Service (SaaS) |
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
@@ -258,9 +295,127 @@ establecido en el Anexo A del enunciado.
 
 ## 1.2. Solution Profile
 
+EcoTrack es una plataforma web B2B diseñada para ayudar a las empresas a medir, gestionar y reducir su impacto ambiental mediante el registro y análisis de sus emisiones de gases de efecto invernadero.
+
+La solución permitirá que las organizaciones registren información relacionada con consumo energético, transporte, combustibles, procesos industriales y otras actividades que generan emisiones. A partir de estos datos, EcoTrack podrá calcular indicadores relacionados con la huella de carbono de la organización.
+
+La plataforma considera los tres principales alcances utilizados para clasificar las emisiones empresariales:
+
+- **Alcance 1:** emisiones directas generadas por fuentes que pertenecen o son controladas por la empresa.
+- **Alcance 2:** emisiones indirectas relacionadas con la generación de electricidad, energía o calefacción adquirida por la empresa.
+- **Alcance 3:** otras emisiones indirectas producidas dentro de la cadena de valor de la organización.
+
+Además del registro y cálculo de emisiones, EcoTrack contará con herramientas de visualización mediante dashboards, generación de reportes ambientales y establecimiento de objetivos de reducción.
+
+Entre las principales funcionalidades propuestas se encuentran:
+
+1. Registro de fuentes de emisión correspondientes a los alcances 1, 2 y 3.
+2. Cálculo de la huella de carbono.
+3. Dashboard de indicadores ambientales.
+4. Creación de planes de reducción y descarbonización.
+5. Establecimiento y seguimiento de metas ambientales.
+6. Generación de reportes de sostenibilidad.
+7. Registro y consulta de iniciativas relacionadas con bonos de carbono.
+8. Posible integración futura con dispositivos IoT.
+9. Uso futuro de analítica predictiva para analizar tendencias de consumo y emisiones.
+
+De esta manera, EcoTrack busca centralizar diferentes procesos ambientales dentro de una sola plataforma, reduciendo el uso de hojas de cálculo y facilitando el análisis de la información.
+
 ### 1.2.1. Antecedentes y problemática
 
-<!-- Completar -->
+
+En los últimos años, las organizaciones han comenzado a prestar mayor atención al impacto ambiental generado por sus actividades. Sin embargo, muchas empresas todavía presentan dificultades para registrar, organizar y analizar la información relacionada con sus emisiones de gases de efecto invernadero.
+
+Para comprender mejor esta problemática, se utiliza el enfoque de las **5W y 2H**.
+
+#### What? — ¿Qué ocurre?
+
+Muchas empresas gestionan la información relacionada con emisiones, consumo energético, combustibles, transporte y otros recursos mediante hojas de cálculo, documentos separados o registros manuales.
+
+Esto dificulta la centralización de la información y puede generar errores durante el registro, procesamiento y análisis de los datos ambientales.
+
+Además, la elaboración de reportes puede convertirse en un proceso repetitivo, debido a que la información debe recopilarse desde diferentes áreas antes de poder ser analizada.
+
+#### Who? — ¿Quiénes se ven afectados?
+
+Los principales afectados son las empresas que necesitan medir y controlar su impacto ambiental, especialmente aquellas que pertenecen a sectores como:
+
+- Agricultura.
+- Industria textil.
+- Minería.
+- Manufactura.
+- Empresas exportadoras.
+- Empresas industriales.
+
+Dentro de estas organizaciones, los usuarios más afectados son los responsables de sostenibilidad, analistas ambientales, gerentes de operaciones, supervisores, personal administrativo y trabajadores encargados de elaborar reportes ambientales.
+
+#### When? — ¿Cuándo ocurre?
+
+El problema se presenta principalmente cuando las empresas necesitan:
+
+- Registrar información relacionada con sus actividades y emisiones.
+- Elaborar reportes ambientales.
+- Comparar resultados entre diferentes periodos.
+- Evaluar el cumplimiento de objetivos ambientales.
+- Preparar información para auditorías o certificaciones.
+- Identificar las actividades que producen mayores emisiones.
+
+También puede presentarse de forma constante durante las actividades diarias de registro y seguimiento ambiental.
+
+#### Where? — ¿Dónde ocurre?
+
+La problemática ocurre dentro de las organizaciones que manejan información ambiental proveniente de diferentes áreas, sedes o procesos.
+
+Por ejemplo, los datos pueden encontrarse distribuidos entre las áreas de operaciones, producción, logística, administración y sostenibilidad.
+
+Esto puede dificultar que los responsables ambientales tengan acceso a una única fuente de información actualizada.
+
+#### Why? — ¿Por qué ocurre?
+
+Esta situación ocurre principalmente porque muchas empresas todavía dependen de herramientas separadas o procesos manuales para gestionar su información ambiental.
+
+Entre las principales causas se encuentran:
+
+- Uso de hojas de cálculo independientes.
+- Información distribuida en diferentes áreas.
+- Falta de automatización en los cálculos.
+- Ausencia de una plataforma centralizada.
+- Registro manual de información.
+- Dificultad para realizar seguimiento histórico.
+- Falta de indicadores ambientales actualizados.
+
+Como consecuencia, aumenta la posibilidad de errores y se requiere más tiempo para organizar y analizar la información.
+
+#### How? — ¿Cómo se presenta el problema?
+
+El problema se presenta cuando los responsables ambientales deben recopilar información desde diferentes fuentes, organizarla manualmente y posteriormente realizar cálculos relacionados con las emisiones.
+
+Este proceso puede dificultar la identificación rápida de las principales fuentes de emisión y el seguimiento de los objetivos ambientales de la organización.
+
+Además, cuando la información cambia o se actualiza, puede ser necesario modificar nuevamente diferentes documentos o registros.
+
+#### How much? — ¿Cuánto impacto genera?
+
+El impacto puede reflejarse principalmente en el tiempo y esfuerzo necesario para gestionar la información ambiental.
+
+El uso de procesos manuales puede ocasionar:
+
+- Mayor tiempo para elaborar reportes.
+- Duplicación de información.
+- Mayor posibilidad de errores humanos.
+- Dificultad para mantener información actualizada.
+- Mayor esfuerzo para comparar periodos.
+- Menor rapidez en la toma de decisiones.
+
+En esta etapa del proyecto todavía no se cuenta con una medición cuantitativa exacta del tiempo o costo generado por esta problemática. Estos datos serán obtenidos posteriormente mediante las entrevistas realizadas a los segmentos objetivo.
+
+#### Problemática identificada
+
+A partir del análisis realizado, se identifica que las empresas necesitan una forma más organizada de gestionar la información relacionada con sus emisiones y desempeño ambiental.
+
+Por ello, EcoTrack propone una plataforma web que permita centralizar el registro de información, automatizar cálculos relacionados con la huella de carbono, visualizar indicadores mediante dashboards y realizar seguimiento de objetivos ambientales.
+
+De esta manera, se busca reducir la dependencia de procesos manuales y facilitar el acceso a información que permita tomar mejores decisiones relacionadas con sostenibilidad.
 
 ### 1.2.2. Lean UX Process
 
