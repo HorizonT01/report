@@ -267,25 +267,6 @@ Además, la plataforma busca facilitar el trabajo relacionado con estándares co
 | **Tipo de solución** | Plataforma web B2B de gestión ambiental |
 | **Sector** | Tecnología y sostenibilidad |
 | **Modelo de negocio** | Software as a Service (SaaS) |
-**Horizon** es una startup tecnológica orientada al desarrollo de soluciones digitales que permitan a las empresas mejorar la gestión de sus procesos ambientales y avanzar hacia modelos de operación más sostenibles.
-
-La startup surge a partir de la necesidad de muchas organizaciones de conocer con mayor precisión el impacto ambiental generado por sus actividades. Actualmente, empresas de sectores como agricultura, minería, industria textil y manufactura necesitan medir sus emisiones de gases de efecto invernadero, controlar el uso de recursos y elaborar reportes ambientales para cumplir con diferentes estándares nacionales e internacionales.
-
-Sin embargo, en muchas organizaciones esta información se encuentra distribuida en hojas de cálculo, documentos y distintos sistemas, lo que dificulta su análisis y aumenta el tiempo necesario para elaborar reportes ambientales.
-
-Frente a esta situación, Horizon propone el desarrollo de **EcoTrack**, una plataforma web B2B enfocada en centralizar y automatizar la medición y gestión de la huella de carbono de las organizaciones.
-
-EcoTrack permitirá registrar diferentes fuentes de emisiones, calcular la huella de carbono empresarial, visualizar indicadores ambientales mediante dashboards y establecer planes de reducción de emisiones. De esta manera, las organizaciones podrán disponer de información más organizada para tomar decisiones relacionadas con sostenibilidad y gestión ambiental.
-
-Además, la plataforma busca facilitar el trabajo relacionado con estándares como el **GHG Protocol**, **ISO 14064** y otras metodologías vinculadas con la medición de emisiones de gases de efecto invernadero.
-
-| Característica | Descripción |
-|---|---|
-| **Nombre de la Startup** | Horizon |
-| **Nombre del producto** | EcoTrack |
-| **Tipo de solución** | Plataforma web B2B de gestión ambiental |
-| **Sector** | Tecnología y sostenibilidad |
-| **Modelo de negocio** | Software as a Service (SaaS) |
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
