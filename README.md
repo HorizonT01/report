@@ -44,7 +44,7 @@
 
 | Versión | Fecha | Autor | Descripción de modificación |
 |---|---|---|---|
-| 0.1 | 10/09/2026 | Doe, Jhon | Se creó la estructura base del informe. |
+| 0.1 | 10/09/2026 | P., Harrison | Se creó la estructura base del informe. |
 
 ---
 
