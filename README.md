@@ -269,7 +269,12 @@ Además, la plataforma busca facilitar el trabajo relacionado con estándares co
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-<!-- Completar perfil de cada integrante -->
+| **Perfil**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | **Foto**                                                                        |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| **Doe, Jane**<br>Mi nombre es Jane, Tengo 19 años. Estudio la carrera de ingeniería de software en la Universidad de la Vida. Cuento con capacidad colaborativa en trabajos en grupo, hábil para desarrollar ideas y propuestas que permitan realizar un trabajo que cumpla con los requerimientos necesarios. Ademas, tengo conocimiento en lenguajes como C++, Python basico, base de datos SQL.| <img src="assets/chapter-1/profile-jane-doe.jpg" alt="Foto de Jane Doe" width="400"> | 
+| **Doe, John**<br>Mi nombre es John. Tengo 19 años y actualmente estoy cursando el 6° ciclo de ingeniería de software. Me considero una persona con capacidades de liderazgo y capaz de trabajar bajo presión. | <img src="assets/chapter-1/profile-john-doe.jpg" alt="Foto de John Doe" width="400"> |
+| **Carrion, Eusebio**<br> Soy Eusebio, estudiante de Ingeniería de Sistemas con interés en el desarrollo de software y la innovación tecnológica. Mi perfil combina habilidades en programación frontend, diseño de interfaces y gestión de proyectos ágiles, con un enfoque en la creación de soluciones digitales funcionales y escalables. Me caracterizo por el trabajo en equipo, la adaptabilidad y la búsqueda constante de nuevas herramientas para optimizar procesos y experiencias de usuario. | <img src="assets/chapter-1/profile-eusebio-carrion.jpg" alt="Foto de Eusebio Carrion" width="400"> |
+| **P., Harrison Hubert**<br>Mi nombre es Harrison. Soy estudiante de la carrera de Ingeniería de Software. Tengo conocimientos en lenguaje Python, C++ y JavaScript, ademas de haber hecho proyectos con FrontEnd usando HTML, CSS y JS. En mi tiempo libre suelo ver películas y escuchar música. | <img src="assets/chapter-1/profile-harrison-p.jpg" alt="Foto de Harrison P." width="400"> |
 
 ---
 
@@ -401,25 +406,123 @@ De esta manera, se busca reducir la dependencia de procesos manuales y facilitar
 
 #### 1.2.2.1. Lean UX Problem Statements
 
-<!-- Completar -->
+El estado actual de la gestión de emisiones de gases de efecto invernadero en empresas exportadoras, corporaciones y medianas empresas industriales se encuentra principalmente enfocado en el uso de hojas de cálculo, documentos independientes y procesos manuales para registrar, organizar y analizar información ambiental.
+
+Las soluciones y procesos utilizados actualmente no siempre permiten centralizar de manera sencilla la información proveniente de distintas áreas, automatizar los cálculos de emisiones, realizar seguimiento de objetivos ambientales y generar reportes desde un mismo entorno.
+
+EcoTrack busca cubrir esta necesidad mediante una plataforma web B2B que permita centralizar el registro de emisiones, realizar cálculos de huella de carbono, visualizar indicadores ambientales, establecer metas de reducción y generar reportes.
+
+Nuestro enfoque inicial estará dirigido a empresas exportadoras y a corporaciones y medianas empresas industriales que necesiten mejorar la forma en que gestionan su información ambiental.
+
+Sabremos que la propuesta está generando resultados cuando los usuarios pertenecientes a estos segmentos puedan registrar y consultar su información ambiental de manera centralizada, identificar sus principales fuentes de emisión y considerar útil el uso de EcoTrack para reducir el esfuerzo requerido en sus procesos actuales.
 
 #### 1.2.2.2. Lean UX Assumptions
 
-<!-- Completar -->
+##### Business Assumptions
+
+- Creemos que las empresas tienen interés en mejorar la forma en que gestionan y analizan sus emisiones de gases de efecto invernadero.
+- Creemos que existe una oportunidad para ofrecer una plataforma web especializada en centralizar información ambiental empresarial.
+- Creemos que un modelo Software as a Service (SaaS) puede permitir que EcoTrack sea utilizado por organizaciones con diferentes necesidades.
+- Creemos que las empresas podrían valorar una solución que reduzca la dependencia de hojas de cálculo y procesos manuales.
+- Creemos que ofrecer diferentes planes de suscripción puede facilitar la adaptación de EcoTrack a empresas de distintos tamaños.
+
+##### Business Outcome Assumptions
+
+- Creemos que EcoTrack puede incrementar la cantidad de empresas que utilizan herramientas digitales para gestionar su información ambiental.
+- Creemos que centralizar la información puede reducir el tiempo empleado por las empresas en organizar datos ambientales.
+- Creemos que la generación de reportes puede incrementar el uso recurrente de la plataforma.
+- Creemos que los dashboards y herramientas de seguimiento pueden favorecer la permanencia de los usuarios dentro del producto.
+- Creemos que una experiencia sencilla puede contribuir a aumentar la adopción de EcoTrack entre los segmentos objetivo.
+
+##### User Assumptions
+
+- Creemos que los principales usuarios serán responsables de sostenibilidad, analistas ambientales, gerentes de operaciones y personal administrativo.
+- Creemos que los usuarios actualmente utilizan diferentes herramientas para registrar y consultar información ambiental.
+- Creemos que los usuarios necesitan revisar periódicamente sus emisiones y resultados.
+- Creemos que parte de los usuarios no cuenta con conocimientos técnicos avanzados sobre sistemas de información.
+- Creemos que los usuarios necesitan información organizada para poder comunicar los resultados ambientales dentro de sus empresas.
+
+##### User Outcome and Benefit Assumptions
+
+- Creemos que los usuarios desean reducir el tiempo necesario para organizar información ambiental.
+- Creemos que los usuarios necesitan identificar rápidamente las principales fuentes de emisión.
+- Creemos que los usuarios buscan disminuir errores relacionados con cálculos manuales.
+- Creemos que los usuarios necesitan comparar resultados entre diferentes periodos.
+- Creemos que los usuarios desean realizar seguimiento de sus objetivos de reducción de emisiones.
+- Creemos que los usuarios necesitan generar reportes de manera más sencilla para procesos internos, auditorías o certificaciones.
+
+##### Feature Assumptions
+
+- Creemos que una funcionalidad para registrar y clasificar fuentes de emisión permitirá centralizar la información ambiental de las empresas.
+- Creemos que un cálculo automático de la huella de carbono ayudará a reducir el esfuerzo y los posibles errores de los cálculos manuales.
+- Creemos que un dashboard con indicadores ambientales permitirá comprender mejor la situación de las emisiones de la organización.
+- Creemos que una funcionalidad para registrar y hacer seguimiento de metas ambientales permitirá controlar mejor los objetivos de reducción.
+- Creemos que la generación de reportes ambientales permitirá recopilar y compartir información de manera más sencilla.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-<!-- Completar -->
+![Lean UX Hypothesis Statements - EcoTrack](assets/chapter-1/Lean-UX-Hypothesis-Statements.png)
 
 #### 1.2.2.4. Lean UX Canvas
 
-<!-- Completar -->
+![Lean UX Canvas- EcoTrack](assets/chapter-1/Lean-UX-canvas.png)
 
 ---
 
 ## 1.3. Segmentos objetivo
 
-<!-- Completar -->
+Para EcoTrack se han identificado dos segmentos objetivo principales. Ambos corresponden a organizaciones que necesitan medir, organizar y analizar información relacionada con sus emisiones de gases de efecto invernadero y su desempeño ambiental.
+
+### Segmento 1: Empresas exportadoras
+
+Este segmento está compuesto por empresas exportadoras de sectores como agricultura, industria textil, minería y otras actividades productivas que participan en mercados nacionales e internacionales.
+
+Estas organizaciones pueden generar emisiones relacionadas con transporte, consumo energético, uso de combustibles, operación de maquinaria y procesos productivos. Además, al trabajar con clientes y mercados internacionales, pueden tener una mayor necesidad de demostrar el cumplimiento de estándares ambientales y políticas de sostenibilidad.
+
+Entre sus principales necesidades se encuentran:
+
+- Registrar sus fuentes de emisión.
+- Calcular su huella de carbono.
+- Organizar información ambiental.
+- Generar reportes de sostenibilidad.
+- Realizar seguimiento de indicadores ambientales.
+- Cumplir con requisitos relacionados con certificaciones o estándares ambientales.
+
+Los principales usuarios dentro de estas empresas serían:
+
+- Responsables de sostenibilidad.
+- Analistas ambientales.
+- Gerentes de operaciones.
+- Personal encargado de calidad.
+- Personal encargado de certificaciones.
+
+EcoTrack busca ayudar a este segmento mediante una plataforma que permita centralizar la información ambiental y facilitar el seguimiento de sus emisiones.
+
+### Segmento 2: Corporaciones y medianas empresas industriales
+
+Este segmento está compuesto por corporaciones y medianas empresas industriales que buscan controlar y reducir el impacto ambiental generado por sus operaciones.
+
+Estas organizaciones pueden producir emisiones provenientes del consumo de electricidad, combustibles, transporte, maquinaria, residuos y distintos procesos productivos. Debido a que la información puede provenir de diferentes áreas de la empresa, uno de sus principales problemas es mantener los datos organizados y actualizados.
+
+Entre sus principales necesidades se encuentran:
+
+- Centralizar información proveniente de diferentes áreas.
+- Identificar las principales fuentes de emisión.
+- Comparar resultados entre diferentes periodos.
+- Visualizar indicadores mediante dashboards.
+- Establecer metas de reducción de emisiones.
+- Realizar seguimiento de sus objetivos ambientales.
+- Generar reportes para procesos internos, auditorías o certificaciones.
+
+Los principales usuarios dentro de este segmento serían:
+
+- Gerentes de operaciones.
+- Responsables de sostenibilidad.
+- Analistas ambientales.
+- Supervisores de producción.
+- Personal administrativo.
+
+Ambos segmentos comparten la necesidad de contar con información ambiental organizada, comprensible y actualizada que les permita tomar mejores decisiones relacionadas con la reducción de emisiones y la sostenibilidad.
 
 ---
 
