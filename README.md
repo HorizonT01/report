@@ -471,7 +471,58 @@ Sabremos que la propuesta está generando resultados cuando los usuarios pertene
 
 ## 1.3. Segmentos objetivo
 
-<!-- Completar -->
+Para EcoTrack se han identificado dos segmentos objetivo principales. Ambos corresponden a organizaciones que necesitan medir, organizar y analizar información relacionada con sus emisiones de gases de efecto invernadero y su desempeño ambiental.
+
+### Segmento 1: Empresas exportadoras
+
+Este segmento está compuesto por empresas exportadoras de sectores como agricultura, industria textil, minería y otras actividades productivas que participan en mercados nacionales e internacionales.
+
+Estas organizaciones pueden generar emisiones relacionadas con transporte, consumo energético, uso de combustibles, operación de maquinaria y procesos productivos. Además, al trabajar con clientes y mercados internacionales, pueden tener una mayor necesidad de demostrar el cumplimiento de estándares ambientales y políticas de sostenibilidad.
+
+Entre sus principales necesidades se encuentran:
+
+- Registrar sus fuentes de emisión.
+- Calcular su huella de carbono.
+- Organizar información ambiental.
+- Generar reportes de sostenibilidad.
+- Realizar seguimiento de indicadores ambientales.
+- Cumplir con requisitos relacionados con certificaciones o estándares ambientales.
+
+Los principales usuarios dentro de estas empresas serían:
+
+- Responsables de sostenibilidad.
+- Analistas ambientales.
+- Gerentes de operaciones.
+- Personal encargado de calidad.
+- Personal encargado de certificaciones.
+
+EcoTrack busca ayudar a este segmento mediante una plataforma que permita centralizar la información ambiental y facilitar el seguimiento de sus emisiones.
+
+### Segmento 2: Corporaciones y medianas empresas industriales
+
+Este segmento está compuesto por corporaciones y medianas empresas industriales que buscan controlar y reducir el impacto ambiental generado por sus operaciones.
+
+Estas organizaciones pueden producir emisiones provenientes del consumo de electricidad, combustibles, transporte, maquinaria, residuos y distintos procesos productivos. Debido a que la información puede provenir de diferentes áreas de la empresa, uno de sus principales problemas es mantener los datos organizados y actualizados.
+
+Entre sus principales necesidades se encuentran:
+
+- Centralizar información proveniente de diferentes áreas.
+- Identificar las principales fuentes de emisión.
+- Comparar resultados entre diferentes periodos.
+- Visualizar indicadores mediante dashboards.
+- Establecer metas de reducción de emisiones.
+- Realizar seguimiento de sus objetivos ambientales.
+- Generar reportes para procesos internos, auditorías o certificaciones.
+
+Los principales usuarios dentro de este segmento serían:
+
+- Gerentes de operaciones.
+- Responsables de sostenibilidad.
+- Analistas ambientales.
+- Supervisores de producción.
+- Personal administrativo.
+
+Ambos segmentos comparten la necesidad de contar con información ambiental organizada, comprensible y actualizada que les permita tomar mejores decisiones relacionadas con la reducción de emisiones y la sostenibilidad.
 
 ---
 
