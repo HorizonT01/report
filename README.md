@@ -406,19 +406,66 @@ De esta manera, se busca reducir la dependencia de procesos manuales y facilitar
 
 #### 1.2.2.1. Lean UX Problem Statements
 
-<!-- Completar -->
+El estado actual de la gestión de emisiones de gases de efecto invernadero en empresas exportadoras, corporaciones y medianas empresas industriales se encuentra principalmente enfocado en el uso de hojas de cálculo, documentos independientes y procesos manuales para registrar, organizar y analizar información ambiental.
+
+Las soluciones y procesos utilizados actualmente no siempre permiten centralizar de manera sencilla la información proveniente de distintas áreas, automatizar los cálculos de emisiones, realizar seguimiento de objetivos ambientales y generar reportes desde un mismo entorno.
+
+EcoTrack busca cubrir esta necesidad mediante una plataforma web B2B que permita centralizar el registro de emisiones, realizar cálculos de huella de carbono, visualizar indicadores ambientales, establecer metas de reducción y generar reportes.
+
+Nuestro enfoque inicial estará dirigido a empresas exportadoras y a corporaciones y medianas empresas industriales que necesiten mejorar la forma en que gestionan su información ambiental.
+
+Sabremos que la propuesta está generando resultados cuando los usuarios pertenecientes a estos segmentos puedan registrar y consultar su información ambiental de manera centralizada, identificar sus principales fuentes de emisión y considerar útil el uso de EcoTrack para reducir el esfuerzo requerido en sus procesos actuales.
 
 #### 1.2.2.2. Lean UX Assumptions
 
-<!-- Completar -->
+##### Business Assumptions
+
+- Creemos que las empresas tienen interés en mejorar la forma en que gestionan y analizan sus emisiones de gases de efecto invernadero.
+- Creemos que existe una oportunidad para ofrecer una plataforma web especializada en centralizar información ambiental empresarial.
+- Creemos que un modelo Software as a Service (SaaS) puede permitir que EcoTrack sea utilizado por organizaciones con diferentes necesidades.
+- Creemos que las empresas podrían valorar una solución que reduzca la dependencia de hojas de cálculo y procesos manuales.
+- Creemos que ofrecer diferentes planes de suscripción puede facilitar la adaptación de EcoTrack a empresas de distintos tamaños.
+
+##### Business Outcome Assumptions
+
+- Creemos que EcoTrack puede incrementar la cantidad de empresas que utilizan herramientas digitales para gestionar su información ambiental.
+- Creemos que centralizar la información puede reducir el tiempo empleado por las empresas en organizar datos ambientales.
+- Creemos que la generación de reportes puede incrementar el uso recurrente de la plataforma.
+- Creemos que los dashboards y herramientas de seguimiento pueden favorecer la permanencia de los usuarios dentro del producto.
+- Creemos que una experiencia sencilla puede contribuir a aumentar la adopción de EcoTrack entre los segmentos objetivo.
+
+##### User Assumptions
+
+- Creemos que los principales usuarios serán responsables de sostenibilidad, analistas ambientales, gerentes de operaciones y personal administrativo.
+- Creemos que los usuarios actualmente utilizan diferentes herramientas para registrar y consultar información ambiental.
+- Creemos que los usuarios necesitan revisar periódicamente sus emisiones y resultados.
+- Creemos que parte de los usuarios no cuenta con conocimientos técnicos avanzados sobre sistemas de información.
+- Creemos que los usuarios necesitan información organizada para poder comunicar los resultados ambientales dentro de sus empresas.
+
+##### User Outcome and Benefit Assumptions
+
+- Creemos que los usuarios desean reducir el tiempo necesario para organizar información ambiental.
+- Creemos que los usuarios necesitan identificar rápidamente las principales fuentes de emisión.
+- Creemos que los usuarios buscan disminuir errores relacionados con cálculos manuales.
+- Creemos que los usuarios necesitan comparar resultados entre diferentes periodos.
+- Creemos que los usuarios desean realizar seguimiento de sus objetivos de reducción de emisiones.
+- Creemos que los usuarios necesitan generar reportes de manera más sencilla para procesos internos, auditorías o certificaciones.
+
+##### Feature Assumptions
+
+- Creemos que una funcionalidad para registrar y clasificar fuentes de emisión permitirá centralizar la información ambiental de las empresas.
+- Creemos que un cálculo automático de la huella de carbono ayudará a reducir el esfuerzo y los posibles errores de los cálculos manuales.
+- Creemos que un dashboard con indicadores ambientales permitirá comprender mejor la situación de las emisiones de la organización.
+- Creemos que una funcionalidad para registrar y hacer seguimiento de metas ambientales permitirá controlar mejor los objetivos de reducción.
+- Creemos que la generación de reportes ambientales permitirá recopilar y compartir información de manera más sencilla.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-<!-- Completar -->
+![Lean UX Hypothesis Statements - EcoTrack](assets/chapter-1/Lean-UX-Hypothesis-Statements.png)
 
 #### 1.2.2.4. Lean UX Canvas
 
-<!-- Completar -->
+![Lean UX Canvas- EcoTrack](assets/chapter-1/Lean-UX-canvas.png)
 
 ---
 
