@@ -18,7 +18,6 @@
 
 **Docente del curso:** Dr. Alistair Chen
 
----
 
 ## INFORME DE TRABAJO FINAL
 
@@ -35,7 +34,7 @@
 
 ### Fecha
 
-Septiembre, 2026
+**Septiembre, 2026**
 
 </div>
 
@@ -55,7 +54,7 @@ Septiembre, 2026
 
 | URL de la organización del proyecto | URL del repositorio del report |
 |---|---|
-| [https://github.com/Horizon-OpenSource](https://github.com/Horizon-OpenSource) | [https://github.com/Horizon-OpenSource/report](https://github.com/Horizon-OpenSource/report) |
+| [https://github.com/HorizonT01](https://github.com/HorizonT01) | [https://github.com/HorizonT01/report](https://github.com/HorizonT01/report) |
 
 | URL del repositorio del Landing Page | URL del repositorio del Frontend |
 |---|---|
